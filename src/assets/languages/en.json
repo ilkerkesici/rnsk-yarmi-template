@@ -1,0 +1,68 @@
+{
+    "TITLE": "en",
+    "LOGIN_SCREEN" : {
+        "HEADER": "Login",
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "NO_ACCOUNT": "If you have not an acoount yet, ",
+        "REGISTER": "Sign Up!"
+    },
+    "REGISTER_SCREEN":{
+        "HEADER": "Register",
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "CONFIRM_PASSWORD": "Confirm Password"
+    },
+    "HOME": {
+        "EMPTY_DATA": "There is no meeting!",
+        "SEARCH": "Search...",
+        "CLOSE": "Close",
+        "DELETE": "Delete"
+    },
+    "SETTING":{
+        "TITLE": "Settings",
+        "LANGUAGE": "Language",
+        "TEMPLATE": "Template",
+        "NOTIFICATION": "Notification",
+        "LOGOUT": "Logout",
+        "LOGIN": "Login"
+    },
+    "LANGUAGE": {
+        "TITLE": "Language",
+        "TURKISH": "Turkish",
+        "ENGLISH": "English",
+        "SAVE": "Save"
+    },
+    "TEMPLATE": {
+        "TITLE": "Template",
+        "DARK": "Dark",
+        "DEFAULT": "Default",
+        "PURPLE": "Purple",
+        "BLUE": "Blue",
+        "GREEN": "Green",
+        "PINK": "Pink",
+        "SAVE": "Save"
+    },
+    "CONTACT": {
+        "TITLE": "Contacts",
+        "EMPTY_DATA": "There is no contact or team!",
+        "DELETE_CONTACT": "Delete",
+        "ADD_CONTACT": "Add Contact",
+        "CREATE_CHANNEL": "Create Channel",
+        "CANCEL": "Cancel",
+        "ACTIONSHEET_TEXT": "Select your process",
+        "CREATE": "Create",
+        "CHANNEL_NAME": "Channel name..."
+    },
+    "CHANNEL": {
+        "TITLE": "Channel",
+        "LEAVE_CHANNEL": "Leave Channel",
+        "DELETE_CHANNEL": "Delete Channel",
+        "WARNING": "Warning",
+        "SURE_LEAVE": "Are you sure to leave this channel?",
+        "YES": "Yes",
+        "NO": "No",
+        "SURE_DELETE_CHANNEL": "Are you sure to delete the channel?",
+        "DELETE_FROM_CHANNEL": "Delete from Channel"
+    }
+}

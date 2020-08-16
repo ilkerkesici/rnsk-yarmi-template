@@ -1,0 +1,68 @@
+{
+    "TITLE": "tr",
+    "LOGIN_SCREEN" : {
+        "HEADER": "Giriş",
+        "EMAIL": "E-Posta",
+        "PASSWORD": "Şifre",
+        "NO_ACCOUNT": "Henüz bir hesabın yoksa, ",
+        "REGISTER": "Kayıt Ol!"
+    },
+    "REGISTER_SCREEN":{
+        "HEADER": "Kayıt Ol",
+        "EMAIL": "E-Posta",
+        "PASSWORD": "Şifre",
+        "CONFIRM_PASSWORD": "Tekrar Şifre"
+    },
+    "HOME": {
+        "EMPTY_DATA": "Hey! Sana uygun bir buluşma görünmüyor. Hadi bir arkadaşını buluşmaya davet et!",
+        "SEARCH": "Ara...",
+        "CLOSE": "Kapat",
+        "DELETE": "Sil"
+    },
+    "SETTING":{
+        "TITLE": "Ayarlar",
+        "LANGUAGE": "Dil",
+        "TEMPLATE": "Görünüm",
+        "NOTIFICATION": "Bildirim",
+        "LOGOUT": "Oturumu Kapat",
+        "LOGIN": "Oturum Aç"
+    },
+    "LANGUAGE": {
+        "TITLE": "Dil",
+        "TURKISH": "Türkçe",
+        "ENGLISH": "İngilizce",
+        "SAVE": "Kaydet"
+    },
+    "TEMPLATE": {
+        "TITLE": "Görünüm",
+        "DARK": "Koyu",
+        "DEFAULT": "Varsayılan",
+        "PURPLE": "Mor",
+        "BLUE": "Mavi",
+        "GREEN": "Yeşil",
+        "PINK": "Pembe",
+        "SAVE": "Kaydet"
+    },
+    "CONTACT": {
+        "TITLE": "Bağlantılar",
+        "EMPTY_DATA": "Bir bağlantı veya takım bulunmuyor!",
+        "DELETE_CONTACT": "Sil",
+        "ADD_CONTACT": "Bağlantı Ekle",
+        "CREATE_CHANNEL": "Kanal Oluştur",
+        "CANCEL": "İptal",
+        "ACTIONSHEET_TEXT": "Bir işlem seçiniz",
+        "CREATE": "Oluştur",
+        "CHANNEL_NAME": "Kanal adı..."
+    },
+    "CHANNEL": {
+        "TITLE": "Kanal",
+        "LEAVE_CHANNEL": "Kanaldan Ayrıl",
+        "DELETE_CHANNEL": "Kanalı Sil",
+        "WARNING": "Uyarı",
+        "SURE_LEAVE": "Bu kanaldan ayrılmak istediğinize emin misiniz?",
+        "YES": "Evet",
+        "NO": "Hayır",
+        "SURE_DELETE_CHANNEL": "Bu kanalı silmek istediğinize emin misiniz?",
+        "DELETE_FROM_CHANNEL": "Kanaldan Çıkar"
+    }
+}
