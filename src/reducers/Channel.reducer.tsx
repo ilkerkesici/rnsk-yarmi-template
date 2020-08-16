@@ -8,15 +8,15 @@ const contact_data: IContactDataProps[] = [
         Email: 'ilkerrkesici@gmail.com',
         ProfileImage: 'https://randomuser.me/api/portraits/men/60.jpg',
         FullName: 'İlker Kesici',
-        About: ' Bir Zeybek gibi... ',
+        About: ' User Description ',
         Type: EContactType.INDIVIDUAL
     },
     {
         Id: 11,
         Email: ' - ',
         ProfileImage: 'https://randomuser.me/api/portraits/men/60.jpg',
-        FullName: 'Ecesu Olgun',
-        About: 'İlkerin aşkı....',
+        FullName: 'Test User',
+        About: 'Test User Description 2',
         Type: EContactType.INDIVIDUAL,
     }
 ];
